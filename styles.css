@@ -1,10 +1,10 @@
 /* Write your CSS here! */
 body {
-	width: 100%;
+	width: 80%;
 	margin: 8px;
 	background-color: rgba(197, 187, 190, 0.411);
 	border-color: white;
-    font-size: 60%;
+    font-size: medium;
 
 }
 
@@ -12,7 +12,7 @@ header,
 main,
 footer {
 	background-color: rgb(232, 169, 211);
-	font-size: 1.6em;
+	font-size: medium;
 }
 header {
 	padding: 70px;
