@@ -1,1 +1,59 @@
 /* Write your CSS here! */
+body {
+	width: 80%;
+	margin: 8px;
+	background-color: rgba(197, 187, 190, 0.411);
+	border-color: white;
+    font-size: medium;
+
+}
+
+header,
+main,
+footer {
+	background-color: rgb(232, 169, 211);
+    margin: 8px;
+	font-size: medium;
+}
+header {
+	padding: 70px;
+}
+
+#mainHeading {
+    color: red;
+
+}
+
+.funParagraph {
+    color: green;
+}
+
+#testP {
+    color: green;
+}
+
+header h1 {
+	text-align: center;
+
+}
+h1 {
+	font-size: 2.5em;
+}
+
+h2{
+    text-align: left;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+figcaption {
+	font-family: italic  ;
+}
